@@ -1,6 +1,9 @@
 # ML-model-implementaions
 Implementation of some Simple Machine learning models.
 
+This GitHub repository contains all the machine learning models that I practiced when I began learning. Each model offers a straightforward implementation on a dataset that is publicly accessible and can be obtained online.
+
+
 The datasets can be found at kaggle with the names specified
 
 ## Data Preprocessing:
